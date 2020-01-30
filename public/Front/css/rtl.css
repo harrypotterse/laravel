@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+
+
+body{font-family: 'Cairo', sans-serif;}
+input{text-align:right!important;}
+h1,h2,h3,h4,h5,h6,a,p,span,div,button,input{font-family: 'Cairo', sans-serif!important;letter-spacing:0!important;}
+.main-header{right:0px;left:auto;}
+#wrapper{right:80px;left:0;}
+.half-hero-wrap {
+    position: absolute;
+    right: 15%;left:auto;text-align:right;}
+	.half-hero-wrap h1,.half-hero-wrap h4{text-align:right;}
+	.rotate_text{right:-40px;left:auto;}
+	.fl-btn {
+    float: right;}
+	.overlay{right:0px;left:0;}
+	.fixed-column-wrap{right:auto!important;left: 1007.45px!important;}
+.column-wrap {
+    float: left;
+}.process-wrap li .process-details,.process-wrap li .process-details h6,p {
+    text-align: right;
+    float: right;}
+	.fl-btn {
+    
+    float: right;
+}.folio-btn-tooltip{right:100px;left:auto;}
+.sliding-menu a{float:right;text-align:right;}
+.contacts-wrap ul li h4{text-align:right;}
+.contacts-wrap li a {
+    display: block;
+    text-align: right;}
+	.contacts-wrap li {
+ 
+    position: relative;
+    padding-right: 70px;
+}
+.sliding-menu li a:after {
+    content: '';
+    position: absolute;
+    top: 0;left:auto;
+    right: -10px;}.process-wrap li {
+    float: right;}
+	.logo_menu{float:right;}
+	.share-container {
+    float: right;
+    margin-right: 33px;
+}
+.team-info h3 {
+    padding-bottom: 5px;
+    text-align: right;
+}
+	.share-title {
+    float: right;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.41);
+    padding-right: 100px;}
+	.share-container a {
+    float: right;}
+.section-title h3:before {
+    content: '';
+    position: absolute;left:auto;
+    right: -90px;}
+	.sec-number{left:0;right:auto;}
+	.section-title h3, .small-section-title h3,.section-title p, .single-page-title p{text-align:right;float:right;}
+	.section-title:after {
+    content: '';left:auto;
+    position: absolute;
+    right: 0;}
+	.page-scroll-nav li {
+    padding-right: 30px;
+}.main-about h2 {text-align:right;
+    text-align: right;}
+	.fl-wrap {
+    float: right;}.inline-facts-wrap {
+    float: right;}
+	.main-footer {
+    position: fixed;
+    bottom: 0;
+    right: 80px;
+    left: 0;}.rotate_text {
+    right: 0;
+    left: auto;
+    display: none;
+}
+	.footer-box-item p {
+    text-align: right;}
+	.subcribe-form input.enteremail {
+    float: right;}
+	.footer-contacts li i {
+    float: right;
+    padding-left: 12px;
+    position: relative;
+    top: 2px;
+}.footer-contacts li a {font-size:14px;
+    float: right;
+    text-align: right;
+    color: #fff;
+}
+.footer-contacts li span {
+    float: right;padding-left:22px;
+    text-align: right;}
+	.subcribe-form .subscribe-button {
+    position: absolute;
+    top: 0;
+    left: 0;right:auto;}
+.footer-title{text-align:right;}
+#comments {
+    text-align: right;}
+	.custom-form button{float:right;}
+	.video-promo-text h3,.testimonilas-text h3 {
+    float: right;text-align:right;}
+	.video-promo-text p {
+    text-align: right;
+    color: #fff;
+}
+	.main-about h5 {
+    text-align: right;}
+	.main-about p, .main-about h5 {
+    text-align: right;
+}
+.page-scroll-nav li {
+    float: right;
+    margin-right: 20px;}
+	.page-scroll-nav li a:before {
+    content: '';
+    position: absolute;left:auto;
+    right: -40px;}
+	.arrowpagenav {right:auto;
+    position: absolute;
+    left: 50px;}
+	.page-scroll-nav:after {
+    content: '';
+    position: absolute;right:auto;
+    left: 177px;}
+	.process-numder {
+    position: absolute;
+    bottom: -20px;left:auto;
+    right: 20px;}
+	.submen-dec:before {
+   right:auto;
+    left: 0}
+	.single-page-title h1 {
+    text-align: right;}
+#sec5{direction:rtl;}
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: right;
+}
+.custom-inner p ,.custom-inner h4{
+    text-align: right;
+    font-weight: 400;
+}
+.dec-list li {
+    display: block;
+    text-align: right;
+    position: relative;
+    padding-right: 30px;
+    margin-bottom: 13px;
+    color: #666;
+    font-weight: 400;
+}.video-promo-text h3:before {
+    content: '';
+    position: absolute;
+    top: -20px;
+    right: 0;
+    left: auto;
+    width: 30px;
+    height: 2px;
+}.resum-header {
+    float: right;
+    width: 100%;
+    position: relative;
+    padding: 30px 70px 30px 10px;
+    border: 1px solid #eee;
+    background: #f9f9f9;
+}
+.resum-header span{text-align:center;}
+
+ .resum-header h3 {
+    padding-right: 46px;
+    float: right;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: right;
+
+}
+.resum-header i{right:15px;left:auto;}
+.video-promo-text .btn {color:#7c4694!important;
+    padding: 15px 35px;
+    cursor: pointer;
+    background: #fff!important;}
+.process-wrap li:after {
+    font-family: Font Awesome\ 5 Pro;
+    content: '\f101';
+    position: absolute;
+    bottom: 2px;
+    right: auto;
+    left: 40px;
+	}
+.dec-list li:before {
+    font-family: Font Awesome\ 5 Pro;
+    content: "\f178";
+    position: absolute;
+    right: 0;
+    top: 4px;
+}
+.custom-inner-holder {
+    float: left;
+    margin-top: 20px;
+    direction: rtl;
+    width: 100%;
+    padding-left: auto;
+    padding-right: 20px;
+    position: relative;
+}
+.custom-inner-holder:before {
+    content: '';
+    position: absolute;
+    right: 0;
+    left: auto;
+    top: 0;
+    height: 100%;
+    width: 1px;
+    background: #eee;
+}
+	@media only screen and (max-width: 1064px){
+.logo-holder {
+    top: 14px;
+    left: auto;
+    right: 15px;
+}
+.half-hero-wrap {
+    left: 50px;
+    padding: 0 50px 0 30px;
+    top: 33%;
+}
+
+}
+	@media only screen and (max-width: 800px){
+.page-scroll-nav {
+    background: #7c4694;
+}}
+@media only screen and (max-width: 1064px){
+#wrapper {
+    top: 0px;
+    right: 0;
+}
+}
+
+@media only screen and (max-width: 800px){.page-scroll-nav li {
+    margin-right: 6px;
+}.page-scroll-nav {
+    display: none;}	.main-footer {
+    position: relative;
+    bottom: 0;
+    right: 0px;
+    left: 0;}
+	.logo-holder {
+    top: 14px;
+    right: 24px;
+    left: auto;
+}
+	.nav-button {
+    position: absolute;
+    top: 20px;
+    left: 13px;
+}
+.page-scroll-nav li {
+    margin-left: 0;
+    padding-left: 0;
+   
+}}

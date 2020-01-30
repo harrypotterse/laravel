@@ -1,0 +1,9 @@
+@extends('Front\main\blog')
+@push('css')
+@endpush
+@section('fixed')
+@include('Front\Software_sections\blog\fixed')
+@endsection
+@section('content')
+@include('Front\Software_sections\blog\content')
+@endsection
